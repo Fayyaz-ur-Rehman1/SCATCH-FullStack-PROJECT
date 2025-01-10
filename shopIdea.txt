@@ -1,0 +1,19 @@
+user model
+fullname - String
+email - String
+password - String
+cart - array
+isadmin - boolean
+order - array
+contact - number
+picture - db
+
+
+product model
+image 
+name
+price
+discount
+bgcolor
+panelcolorF
+textcolornb 
